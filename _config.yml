@@ -11,7 +11,7 @@ title                    : "Irene Malvestio"
 title_separator          : "-"
 name                     : &name "Irene Malvestio"
 description              : &description "personal description"
-url                      : https://irenemalvestio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : ""#https://irenemalvestio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "irenemalvestio/irenemalvestio.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,9 +85,9 @@ author:
   bio              : "Postdoc Researcher"
   location         : "Mirano (VE), Italy"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.it/citations?user=cloSQ2MAAAAJ&hl=it"
-  email            :
+  email            : #"malvestio.irene@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"irenemalvestio"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-9843-9542"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
